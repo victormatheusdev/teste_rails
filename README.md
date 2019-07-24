@@ -8,23 +8,23 @@ Seu objetivo é, através do projeto contido neste repositório desenvolver suit
 ## Sobre o projeto
 Uma rede de bancos mundialmente famoso chamada Cris&Financeira quer desenvolver um sistema para gerenciamento tanto de seus inúmeros bancos quanto de seus respectivos clientes. O sistema conta com 3 entidades básicas:
 
-. Cliente
-. Banco
-. Conta bancária
-. Transaferência (superclasse)
-.. Deposito (classe filha de transferência)
-.. Retirada (classe filha de transferência)
+- Cliente
+- Banco
+- Conta bancária
+- Transaferência (superclasse)
+-- Deposito (classe filha de transferência)
+-- Retirada (classe filha de transferência)
 
 As classes podem ser inspecionadas no diretório **app/models**.
 
 
 ## Critérios que serão avaliados
 
-. Organização dos casos de teste
-. Legibilidade do código escrito
-. Reaproveitamento e reuso de código
-. Tempo para finalização do teste
-. Expertise demonstrada nas perguntas dissertativas
-. Taxa de assertividade nos casos de teste com base no gabarito
-. Escrita dos testes em **inglês**
+- Organização dos casos de teste
+- Legibilidade do código escrito
+- Reaproveitamento e reuso de código
+- Tempo para finalização do teste
+- Expertise demonstrada nas perguntas dissertativas
+- Taxa de assertividade nos casos de teste com base no gabarito
+- Escrita dos testes em **inglês**
 
