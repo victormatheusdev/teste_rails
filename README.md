@@ -12,8 +12,8 @@ Uma rede de bancos mundialmente famoso chamada Cris&Financeira quer desenvolver 
 - Banco
 - Conta bancária
 - Transaferência (superclasse)
--- Deposito (classe filha de transferência)
--- Retirada (classe filha de transferência)
+- Deposito (classe filha de transferência)
+- Retirada (classe filha de transferência)
 
 As classes podem ser inspecionadas no diretório **app/models**.
 
