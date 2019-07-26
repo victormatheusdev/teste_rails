@@ -11,7 +11,7 @@ Uma rede de bancos mundialmente famoso chamada Cris&Financeira quer desenvolver 
 - Cliente
 - Banco
 - Conta bancária
-- Transaferência (superclasse)
+- Transferência (superclasse)
 - Deposito (classe filha de transferência)
 - Retirada (classe filha de transferência)
 
